@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --from=Currentuser Newuser FILE
+chown --from=guillaume betty hello
